@@ -1,0 +1,37 @@
+newmtl WuRenJi_B:inspire:body1SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd WuRenJi_02_D.tga
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks WuRenJi_02_S.tga
+Ns 4.31
+newmtl WuRenJi_B:inspire:body17SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd WuRenJi_04_D.tga
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 4.31
+newmtl WuRenJi_B:inspire:left1SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd WuRenJi_03_D.tga
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks WuRenJi_03_S.tga
+Ns 4.31
+newmtl WuRenJi_B:inspire:left7SG1
+illum 4
+Kd 0.09 0.09 0.09
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 4.31

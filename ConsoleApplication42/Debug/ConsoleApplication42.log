@@ -1,0 +1,80 @@
+﻿  dummy.cpp
+  GLM: version 0.9.6.3
+  GLM: Windows platform detected
+  GLM: Visual C++ compiler detected
+  GLM: 32 bits model
+  GLM: C++0x
+  GLM: Language extensions enabled
+  GLM: SSE2 instruction set
+  GLM: Swizzling operators disabled, #define GLM_SWIZZLE to enable swizzle operators
+  GLM: .length() returns glm::length_t, a typedef of int following the GLSL specification
+  GLM: Core library included
+  GLM: All extensions included (not recommanded)
+  GLM: GLM_GTC_bitfield extension included
+  GLM: GLM_GTC_constants extension included
+  GLM: GLM_GTC_epsilon extension included
+  GLM: GLM_GTC_quaternion extension included
+  GLM: GLM_GTC_integer extension included
+  GLM: GLM_GTC_matrix_access extension included
+  GLM: GLM_GTC_matrix_integer extension included
+  GLM: GLM_GTC_matrix_inverse extension included
+  GLM: GLM_GTC_matrix_transform extension included
+  GLM: GLM_GTC_noise extension included
+  GLM: GLM_GTC_vec1 extension included
+  GLM: GLM_GTC_type_precision extension included
+  GLM: GLM_GTC_packing extension included
+  GLM: GLM_GTC_random extension included
+  GLM: GLM_GTC_reciprocal extension included
+  GLM: GLM_GTC_integer extension included
+  GLM: GLM_GTC_type_ptr extension included
+  GLM: GLM_GTC_ulp extension included
+  GLM: GLM_GTX_associated_min_max extension included
+  GLM: GLM_GTX_bit extension is deprecated, include GLM_GTC_bitfield and GLM_GTC_integer instead
+  GLM: GLM_GTX_closest_point extension included
+  GLM: GLM_GTX_color_space extension included
+  GLM: GLM_GTX_color_space_YCoCg extension included
+  GLM: GLM_GTX_compatibility extension included
+  GLM: GLM_GTX_component_wise extension included
+  GLM: GLM_GTX_dual_quaternion extension included
+  GLM: GLM_GTX_euler_angles extension included
+  GLM: GLM_GTX_extend extension included
+  GLM: GLM_GTX_extented_min_max extension included
+  GLM: GLM_GTX_fast_exponential extension included
+  GLM: GLM_GTX_fast_square_root extension included
+  GLM: GLM_GTX_fast_trigonometry extension included
+  GLM: GLM_GTX_optimum_pow extension included
+  GLM: GLM_GTX_gradient_paint extension included
+  GLM: GLM_GTX_handed_coordinate_space extension included
+  GLM: GLM_GTX_integer extension included
+  GLM: GLM_GTX_closest_point extension included
+  GLM: GLM_GTX_log_base extension included
+  GLM: GLM_GTX_matrix_cross_product extension included
+  GLM: GLM_GTX_matrix_interpolation extension included
+  GLM: GLM_GTX_matrix_major_storage extension included
+  GLM: GLM_GTX_matrix_operation extension included
+  GLM: GLM_GTX_vector_query extension included
+  GLM: GLM_GTX_matrix_query extension included
+  GLM: GLM_GTX_mixed_product extension included
+  GLM: GLM_GTX_quaternion extension included
+  GLM: GLM_GTX_norm extension included
+  GLM: GLM_GTX_normal extension included
+  GLM: GLM_GTX_normalize_dot extension included
+  GLM: GLM_GTX_number_precision extension included
+  GLM: GLM_GTX_orthonormalize extension included
+  GLM: GLM_GTX_projection extension included
+  GLM: GLM_GTX_perpendicular extension included
+  GLM: GLM_GTX_polar_coordinates extension included
+  GLM: GLM_GTX_raw_data extension included
+  GLM: GLM_GTX_transform extension included
+  GLM: GLM_GTX_rotate_vector extension included
+  GLM: GLM_GTX_spline extension included
+  GLM: GLM_GTX_std_based_type extension included
+  GLM: GLM_GTX_string_cast extension included
+  GLM: GLM_GTX_transform2 extension included
+  GLM: GLM_GTX_type_aligned extension included
+  GLM: GLM_GTX_vector_angle extension included
+  GLM: GLM_GTX_wrap extension included
+d:\vs\vc\include\glm\gtx\scalar_multiplication.hpp(85): error C2719: “rh”: 要求 16 对齐的形参将不被对齐
+d:\vs\vc\include\glm\gtx\scalar_multiplication.hpp(85): error C2719: “lh”: 要求 16 对齐的形参将不被对齐
+  GLM: GLM_GTX_simd_vec4 extension included
+  GLM: GLM_GTX_simd_mat4 extension included
